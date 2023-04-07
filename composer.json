@@ -2,7 +2,7 @@
     "name": "watch3r/module-checkout",
     "description": "Custom Module For Checkout",
   "type": "magento2-module",
-  "version": "0.2.0",
+  "version": "0.2.1",
     "license": "proprietary",
     "authors": [
         {
