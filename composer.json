@@ -1,0 +1,21 @@
+{
+    "name": "watch3r/module-checkout",
+    "description": "Custom Module For Checkout",
+  "type": "magento2-module",
+  "version": "0.1.0",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "watch3r",
+            "email": "info@ostoya.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "watch3r\\module-checkout\\": ""
+    }
+  }
+}
