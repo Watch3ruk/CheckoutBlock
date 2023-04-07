@@ -1,2 +1,6 @@
-use \Magento\Framework\Component\ComponentRegistrar;
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Watch3r_CheckoutBlock', __DIR__);
+<?php
+\Magento\Framework\Component\ComponentRegistrar::register(
+	\Magento\Framework\Component\ComponentRegistrar::MODULE,
+	'Watch3r_CheckoutBlock',
+	__DIR__
+);
